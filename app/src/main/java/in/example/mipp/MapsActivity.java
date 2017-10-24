@@ -1,4 +1,4 @@
-package in.propelsoft.mipp;
+package in.example.mipp;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
